@@ -6,10 +6,6 @@ Este script en Python crea configuraciones de VLAN utilizando una interfaz gráf
 
 Este script genera configuraciones de VLAN basadas en la entrada del usuario a través de una interfaz gráfica. Permite a los usuarios especificar el número de VLANs que se generarán y sus nombres correspondientes. Las configuraciones de VLAN generadas pueden guardarse en un archivo o copiarse en el portapapeles.
 
-## Requisitos
-
-- Python 3.x
-- Biblioteca Tkinter
 
 ## Uso
 
